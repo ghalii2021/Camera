@@ -1,0 +1,19 @@
+# Dossiers à ignorer
+__pycache__/
+venv/
+.env/
+*.py[cod]
+
+# Fichiers de données temporaires
+*.log
+*.tmp
+
+# Fichiers de configuration sensible
+.env
+config.ini
+secrets.json
+
+# Fichiers générés par l'IDE
+.idea/
+.vscode/
+echo "venv/"
